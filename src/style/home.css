@@ -1,0 +1,31 @@
+.background1{
+    width: 1024px;
+    height: 768px;
+}
+.content-home1{
+    width: 450px;
+    padding-top: 100px;
+}
+.judul{
+    padding-top: 200px;
+    font-weight: bold;
+    font-size: 60px;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    color:rgb(0, 132, 255);
+}
+.subjudul {
+    font-size: 60px;
+    font-weight: bold;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+.penjelasan{
+    font-size: 20px;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+.bg {
+    background-image: url("/src/background/background-homepage3.png");
+    height: 160vh;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+    }

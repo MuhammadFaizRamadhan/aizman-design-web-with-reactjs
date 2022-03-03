@@ -1,0 +1,30 @@
+.bg-portfolio {
+    background-image: url("/public/assets/portfolio/background-portfolio1.png");
+    height: 100vh;
+    height: 945.8545px;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+.museumoftoys{
+    padding-top: 31px;
+    
+    width: 1519px;
+}
+.thesocialhouse{
+    width: 1519px;
+}
+.judul-portfolio{
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    font-size: 50px;
+    font-weight: bold;
+    padding-top: 370px;
+}
+.contentportfolio{
+    padding-top: 10px;
+    width: 800px;
+}
+.isi-portfolio{
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    font-size: 20px;
+}

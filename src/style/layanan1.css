@@ -1,0 +1,89 @@
+.judulLayanan {
+    padding-bottom: 20px;
+    font-size: 40px;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    font-weight: bold;
+    text-align: center;
+}
+.jenisLayananL {
+    padding-top: 100px;
+    font-size: 30px;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    font-weight: bold;
+    color: rgb(0, 132, 255);
+}
+.isiLayananL {
+    font-size: 17px;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+
+.jenisLayananR {
+    padding-top: 150px;
+    font-size: 30px;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    font-weight: bold;
+    color: rgb(0, 132, 255);
+    text-align: right;
+}
+.isiLayananR {
+    font-size: 17px;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    text-align: right;
+}
+.webdevelopment {
+    padding-top: 10px;
+    /* padding-bottom: 50px; */
+    width: 400px;
+}
+.videoanimation {
+    padding-top: 10px;
+    /* padding-bottom: 50px; */
+    width: 450px;
+}
+.videoediting {
+    padding-top: 10px;
+    /* padding-bottom: 50px; */
+    width: 380px;
+}
+.socialmediamanagement {
+    padding-top: 10px;
+    /* padding-bottom: 50px; */
+    width: 450px;
+}
+
+.element3_1{
+    padding-top: 30px;
+    width: 70px;
+}
+.element3_2{
+    width: 70px;
+}
+.element4_1{
+    padding-top: 30px;
+    width: 50px;
+}
+.element4_2{
+    width: 50px;
+}
+.element1{
+    padding-top: 50px;
+    width: 50px;
+}
+.element2{
+    width: 50px;
+}
+/* hover effect in text */
+/* .judulLayanan::after {
+    content: '';
+    display: block;
+    width: 0px;
+    height: 5px;
+    background: #00e0fe;
+    transition: 0.2s
+}
+.judulLayanan:hover::after {
+    width: 100%;
+    margin: auto;
+    margin-left: auto;
+    margin-right: auto;
+ } */

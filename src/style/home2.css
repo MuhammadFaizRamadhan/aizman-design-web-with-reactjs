@@ -1,0 +1,33 @@
+.content-home2{
+    width: 450px;
+    padding-bottom: 30px;
+}
+.bag {
+    background-image: url("/src/background/background-homepage2.png");
+    height: 114vh;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+    }
+
+.judul2{
+    padding-top: 150px;
+    font-size: 40px;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    font-weight: bold;
+}
+
+.pertanyaan {
+    font-size: 25px;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+.checklist {
+    width: 23px;
+}
+.element1{
+    padding-top: 50px;
+    width: 50px;
+}
+.element2{
+    width: 50px;
+}
